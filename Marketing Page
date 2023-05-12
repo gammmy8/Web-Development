@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<title>Marketing Page</title>
+	
+		<style>
+
+			body {
+
+				background-image:url('https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif');
+				background-repeat:no-repeat;
+				background-attachment:fixed;
+				background-size:100% 100%;
+
+				}
+
+		</style>
+	
+	</head>
+
+	<header>
+		
+		
+		<center><img src="Logo.png"style="width:200px; height:200px;">
+		<h1 style="color:#13EFEF; font-size:50px;">iTech Co.</h1>
+		<h3 style="font-size:30px; color:white;">Transforming the Future with Robotics, Artificial Intelligence, and Data Analytics</h3s><br><br>
+						<hr>
+		<video width="900" heigth="900" controls autoplay>
+		<source src="video2.mp4" type "video/mp4">
+		<source src="video2.ogg" type "video/ogg"></video>
+
+	</header>
+
+	<body>
+
+		<center><h4 style="color:white; font-size:30px;">The IT industry is constantly evolving, and IT professionals need to continuously update their skills to stay competitive. In the future, there will be a greater emphasis on digital skills, such as coding, data analysis, and machine learning. IT professionals in India who can demonstrate these skills will be in high demand.</h4></center>
+		
+		<center><h2 style="color:#FF6800; font-size:40px;">Our Services</h2></center>
+
+						<br>		
+	
+		<h3 style="font-size:40px; color:#13EFEF;">Robotics</h3>
+		<p style="font-size:30px; color:white;">We design and build custom robotics solutions for various industries, including manufacturing, healthcare, and logistics.</p>
+		<img src="robotics4.png" style="width:380px; heigth:400px;">
+		<img src="Robot.png" style="width:450px; heigth:500px;">
+		<img src="Robotics5.png" style="width:455px; heigth:500px;">
+		
+						<br>
+
+		<h3 style="font-size:40px; color:#13EFEF;">Artificial Intelligence</h3>
+		<p style="font-size:30px; color:white;">We develop AI-based software applications that help businesses automate processes, gain insights, and make informed decisions.</p>
+		<img src="AI2.png" style="width:400px; heigth:400px;">
+		<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" style="width:370px; heigth:400px;">
+		<img src="AI3.png" style="width:415px; heigth:400px;">
+
+						<br>
+
+		<h3 style="font-size:40px; color:#13EFEF">Data Analytics</h3>
+		<p style="font-size:30px; color:white">We offer data analytics services that help businesses collect, process, and analyze large amounts of data to gain valuable insights.</p>
+		<img src="Ana.png" style="width:415px; heigth:400px;">
+		<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" style="width:388px; heigth:400px;">
+		<img src="Ana2.png"style="width:357px; heigth:400px;">
+
+						<br>
+
+		<h3 style="font-size:40px; color:#FF6800">What are the available job opportunities in IT Industry in Future?</h3>
+
+						<br>
+		
+		<ul style="color:white; font-size:30px;">
+  			<li>Network Administrator</li>
+  			<li>Network Engineer</li>
+  			<li>Network Security Specialist</li>
+			<li>Network Consultant</li>
+			<li>Security Analyst Specialist</li>
+	
+		</ul>
+
+
+
+		
+	</body>
+
+
+</html>
+
