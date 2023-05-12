@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+		
+		<title>About Us</title>
+
+	<style>
+
+		body {		
+
+			background-image:url('https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif');
+			background-repeat:no-repeat;
+			background-attachment:fixed;
+			background-size:100% 100%;
+
+		}
+
+	</style>
+
+
+
+</head>
+
+	<header>
+		
+		<center><img src="Logo3.png" style= "width:200px; height:200px;"></center>
+		<h1 style="color:#13EFEF; font-size:50px; text-align:center;">iTech Co.</h1>
+		<h3 style="color:white; font-size:30px; text-align:center;"> A Technological and Engineering Company</h3>
+						<hr>		
+
+	</header>
+
+	<body>
+		<center><img src="Joe.png" style="width:400px; height:200px;">
+		<h1 style="color:#FF6800; font-size:40px;">Joe Jonas</h1>
+		<p style="color:white; font-size:20px;">Founder</p></center>
+						<hr>
+		<center><img src="Nick.png" style="width:400px; height:200px;">
+   		<h1 style="color:#FF6800; font-size:40px;">Nick Jonas</h1>
+		<p style="color:white; font-size:20px;">Co-Founder</p></center>
+						<hr>
+		<center><img src="Kevin.png" style="width:400px; height:200px;">
+		<h1 style="color:#FF6800; font-size:40px;">Kevin Jonas</h1>
+		<p style="color:white; font-size:20px;">Director</p></center>
+
+						<br>
+						<br>
+						<br>	
+			
+		<center><p style="color:white; font-size:10px;">All images belong to their rightful owners.</p>
+
+
+
+</html>
+
+
+
