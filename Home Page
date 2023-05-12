@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<title>Home Page</title>
+	
+	<style>
+		
+		body {
+			background-image:url('https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif');
+			background-repeat:no-repeat;
+			background-attachment:fixed;
+			background-size:100% 100%;
+
+		}
+
+	</style>
+
+	</head>
+
+	<header>
+
+	
+		<center><img src="Logo.png"style="width:200px; height:200px;">
+		<h1 style="color:#13EFEF; font-size:50px;">iTech Co.</h1>
+						<hr>
+		<h3 style="font-size:30px; color:white;">Transforming the Future with Robotics, Artificial Intelligence, and Data Analytics</h3s><br><br>
+
+		<video width="900" heigth="900" controls autoplay>
+		<source src="video.mp4" type "video/mp4">
+		<source src="video.ogg" type "video/ogg"></video>
+
+
+	</header>
+
+
+
+	<body>
+
+		<p style="color:white; text-align:center; font-size:25px;"><span style="color:#13EFEF">iTech Co.</span> offers variety of services to all of our valued customers who seek for a team to achieve and develop their needs. We, the <span style="color:#13EFEF">iTech Group of Companies</span>, always strive for the best, to ensure that we can always perfom for our beloved customers.</p>
+
+		<center><img src="IT2.png" style= "width:600px; height:600px;">	
+
+		<h2 style="text-align:center; color:#13EFEF; font-size:50px;"><About Us</h2>
+		<p style="text-align:center; font-size:25px; color:white;"><span style="color:#13EFEF">iTech Co.</span> is an IT company specializing robotics, artificial intelligence, and data analytics. Our team of experts is dedicated to providing innovative solutions that help our clients succeed in today's competitive market.</p>
+
+
+		
+		<h6 style="color:#13EFEF; text-align:center;"><a href=file:///C:/Users/Ellinore/OneDrive/Desktop/MyWeb/iTech/Marketing.html target=_blank>See Our Services</a></h6>
+
+		<h6 style="color:#13EFEF; text-align:center;"><a href="C:\Users\Ellinore\OneDrive\Desktop\MyWeb\iTech\About Us.html" target=_blank>Our Team</a></h6>
+
+
+	
+	</body>
+
+
+
+
+</html>
